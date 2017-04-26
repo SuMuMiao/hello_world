@@ -1,2 +1,7 @@
-# hello_world
-just a 练习
+include"stdio.h"
+main()
+{
+    printf("this just is a hello world !");
+    while(1);
+}
+
