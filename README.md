@@ -8,5 +8,6 @@ main()
 
 	Creating a new branch is quick and simple.
 	not used fast forward mode to merge.
+	bugfix.
 }
 
