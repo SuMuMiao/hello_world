@@ -5,6 +5,6 @@ main()
     while(1);
 	printf("today i just add a test\r\n");
 	
-	Creating a new branch is quick.
+	Creating a new branch is quick and simple.
 }
 
